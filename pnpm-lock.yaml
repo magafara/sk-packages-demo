@@ -30,6 +30,9 @@ importers:
       '@znk-sk-tools/eslint-config':
         specifier: 1.0.5
         version: 1.0.5(@typescript-eslint/parser@8.56.1(eslint@9.39.3)(typescript@5.9.3))(eslint@9.39.3)(typescript@5.9.3)
+      '@znk-sk-tools/tsconfig':
+        specifier: ^1.0.0
+        version: 1.0.0
       eslint:
         specifier: 9.39.3
         version: 9.39.3
@@ -713,6 +716,9 @@ packages:
     resolution: {integrity: sha512-3sppZjc6F8/5PVDl1VUs3KPFNI4dh5jrmX5fE/H6/VlyCMQ1ORWe+4oLmuZ91IGVQ1f/nuMOp5vWUCi7KZRC9w==}
     peerDependencies:
       eslint: '>=9.0.0 <10.0.0'
+
+  '@znk-sk-tools/tsconfig@1.0.0':
+    resolution: {integrity: sha512-y9T3m5Q1RfYk2aA7llHV4GqhtvFJBlRKhcHhETZR0EWovkjt0CLdEI7tbKR2IUyS7h6kS1XcdsoHV/OTzAKZHg==}
 
   acorn-jsx@5.3.2:
     resolution: {integrity: sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==}
@@ -2133,6 +2139,8 @@ snapshots:
       - '@typescript-eslint/parser'
       - supports-color
       - typescript
+
+  '@znk-sk-tools/tsconfig@1.0.0': {}
 
   acorn-jsx@5.3.2(acorn@8.16.0):
     dependencies:
