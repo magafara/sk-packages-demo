@@ -14,7 +14,7 @@
     "build:script": "sk-build"
   },
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.17.23",
     "vue": "^3.5.28"
   },
   "devDependencies": {
