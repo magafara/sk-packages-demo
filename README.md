@@ -19,3 +19,5 @@ pnpm dev
 ```sh
 pnpm build
 ```
+
+## Ajout CNAM
