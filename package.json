@@ -26,7 +26,7 @@
     "@znk-sk-tools/build": "^1.0.1",
     "@znk-sk-tools/eslint-config": "1.0.5",
     "@znk-sk-tools/tsconfig": "^1.0.0",
-    "eslint": "9.39.3",
+    "eslint": "9.39.4",
     "happy-dom": "^20.7.0",
     "npm-run-all2": "8.0.4",
     "typescript": "5.9.3",
