@@ -22,7 +22,7 @@
     "@types/node": "24.10.13",
     "@vitejs/plugin-vue": "6.0.4",
     "@vue/test-utils": "^2.4.6",
-    "@vue/tsconfig": "0.8.1",
+    "@vue/tsconfig": "0.9.1",
     "@znk-sk-tools/build": "^1.0.1",
     "@znk-sk-tools/eslint-config": "1.0.5",
     "@znk-sk-tools/tsconfig": "^1.0.0",
